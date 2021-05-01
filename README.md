@@ -1,8 +1,13 @@
 # Pacmen-Java-Gui  :collision: :collision: :collision:
 The old and beloved game including audio and score, there are two levels and hope in the future to put in more levels. :heart_eyes_cat:
 
+## Features
+   * Images (ghost, pacman)
+   * Sound
+   * Levels
+   
 
-# :ghost: How to operate:
+## :ghost: How to operate:
  After downloading the files, start StartGame.java
  The game will run and you will be able to play.
 
