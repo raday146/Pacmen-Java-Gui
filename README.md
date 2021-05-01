@@ -7,7 +7,7 @@ The old and beloved game including audio and score, there are two levels and hop
    * Levels
    
 
-## :ghost: How to operate:
+## :ghost:   How to operate:
  After downloading the files, start StartGame.java
  The game will run and you will be able to play.
 
